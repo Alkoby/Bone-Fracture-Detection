@@ -62,13 +62,13 @@ Run mainGUI.Py
 
 # GUI
 ### Main
-<img src="images/GUI/Shoulder/main.png" width=400>
+<img src="images/GUI/main.png" width=400>
 
 ### Info-Rules
-<img src="images/GUI/Shoulder/Rules.png" width=400>
+<img src="images/GUI/Rules.png" width=400>
 
 ### Test Normal & Fractured
-<img src="images/GUI/Shoulder/normal.png" width=400> <img src="images/GUI/Shoulder/fractured.png" width=400>
+<img src="images/GUI/normal.png" width=300> <img src="images/GUI/fractured.png" width=300>
 
 
 
