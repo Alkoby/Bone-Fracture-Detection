@@ -67,7 +67,6 @@ def reportPredict(dataset):
 
     print(Fore.BLUE + '\npart acc: ' + str("%.2f" % (part_count / len(dataset) * 100)) + '%')
     print(Fore.BLUE + 'status acc: ' + str("%.2f" % (status_count / len(dataset) * 100)) + '%')
-    print(Fore.BLUE + 'total acc: ' + str("%.2f" % (total_count / len(dataset) * 100)) + '%')
     return
 
 
