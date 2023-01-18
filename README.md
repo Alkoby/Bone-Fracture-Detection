@@ -11,6 +11,7 @@ The data set we used called MURA and included 3 different bone parts, MURA is a 
 | **Elbow**    |    3160    |          2236 |      5396 |
 | **Hand**     |    4330    |          1673 |      6003 |
 | **Shoulder** |    4496    |          4440 |      8936 |
+
 The data is separated into train and valid where each folder contains a folder of a patient and for each patient between 1-3 images for the same bone part
 
 ## Algorithm
@@ -26,14 +27,16 @@ This algorithm has the potential to greatly aid medical professionals in detecti
 
 ## Results
 ### Body Part Prediction
-![img.png](plots/BodyPartAcc.png) ![img_2.png](plots/BodyPartLoss.png)
+
+<img src="plots/BodyPartAcc.png" width=200> <img src="plots/BodyPartLoss.png" width=200>
 
 ### Fracture Prediction
 #### Elbow
-![img.png](plots/FractureDetection/Elbow/_Accuracy.jpeg) ![img.png](plots/FractureDetection/Elbow/_Loss.jpeg)
+
+<img src="plots/FractureDetection/Elbow/_Accuracy.jpeg" width=200> <img src="plots/FractureDetection/Elbow/_Loss.jpeg" width=200>
 
 #### Hand
-![img.png](plots/FractureDetection/Hand/_Accuracy.jpeg) ![img.png](plots/FractureDetection/Hand/_Loss.jpeg)
+<img src="plots/FractureDetection/Hand/_Accuracy.jpeg" width=200> <img src="plots/FractureDetection/Hand/_Loss.jpeg" width=200>
 
 #### Shoulder
-![img.png](plots/FractureDetection/Shoulder/_Accuracy.jpeg) ![img.png](plots/FractureDetection/Shoulder/_Loss.jpeg)
+<img src="plots/FractureDetection/Shoulder/_Accuracy.jpeg" width=200> <img src="plots/FractureDetection/Shoulder/_Loss.jpeg" width=200>
