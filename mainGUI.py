@@ -1,12 +1,9 @@
 import os
-import tkinter
 from tkinter import filedialog
-from PIL import ImageTk
 import customtkinter as ctk
 import pyautogui
 import pygetwindow
 from PIL import ImageTk, Image
-from matplotlib import image as mpimg, pyplot as plt
 
 from predictions import predict
 
@@ -23,7 +20,7 @@ class App(ctk.CTk):
         super().__init__()
 
         self.title("Bone Fracture Detection")
-        self.geometry(f"{500}x{680}")
+        self.geometry(f"{500}x{740}")
         self.head_frame = ctk.CTkFrame(master=self)
         self.head_frame.pack(pady=20, padx=60, fill="both", expand=True)
         self.main_frame = ctk.CTkFrame(master=self)

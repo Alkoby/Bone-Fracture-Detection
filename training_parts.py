@@ -4,7 +4,6 @@ import os.path
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 import tensorflow as tf
-from sklearn.metrics import confusion_matrix, classification_report
 from tensorflow.keras.optimizers import Adam
 
 
