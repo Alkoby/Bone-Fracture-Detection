@@ -44,7 +44,8 @@ This algorithm has the potential to greatly aid medical professionals in detecti
 
 # Installations
 ### PyCharm IDE
-### install requirements.txt
+### Python v3.7.x
+### Install requirements.txt
 
 * customtkinter~=5.0.3
 * PyAutoGUI~=0.9.53
